@@ -1,3 +1,1 @@
-P{
-    color red;
-}
+This are the files of html, css and javascript
